@@ -1,0 +1,9 @@
+D:\visual studio 2012\Projects\RandomPasirenkaIsSaraso\LAB1.RadixSort\bin\Debug\LAB1.RadixSort.exe.config
+D:\visual studio 2012\Projects\RandomPasirenkaIsSaraso\LAB1.RadixSort\bin\Debug\LAB1.RadixSort.exe
+D:\visual studio 2012\Projects\RandomPasirenkaIsSaraso\LAB1.RadixSort\bin\Debug\LAB1.RadixSort.pdb
+D:\visual studio 2012\Projects\RandomPasirenkaIsSaraso\LAB1.RadixSort\obj\Debug\LAB1.RadixSort.csprojResolveAssemblyReference.cache
+D:\visual studio 2012\Projects\RandomPasirenkaIsSaraso\LAB1.RadixSort\obj\Debug\LAB1.RadixSort.exe
+D:\visual studio 2012\Projects\RandomPasirenkaIsSaraso\LAB1.RadixSort\obj\Debug\LAB1.RadixSort.pdb
+D:\visual studio 2012\Projects\Darbai-  Edvinas Sadlevičius IFF-67\LAB1.RadixSort\bin\Debug\LAB1.RadixSort.exe.config
+D:\visual studio 2012\Projects\Darbai-  Edvinas Sadlevičius IFF-67\LAB1.RadixSort\obj\Debug\LAB1.RadixSort.exe
+D:\visual studio 2012\Projects\Darbai-  Edvinas Sadlevičius IFF-67\LAB1.RadixSort\obj\Debug\LAB1.RadixSort.pdb
